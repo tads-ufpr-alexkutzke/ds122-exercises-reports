@@ -1,7 +1,7 @@
 # Entrega dos exercícios
 
 - **Grupo**: ds122-2025-1-n
-- **Última atualização**: Mon Apr 14 22:22:22 -03 2025
+- **Última atualização**: Thu Apr 17 10:47:44 -03 2025
 
 |Nome| ds122-prepare-assignment<br>2025-03-21| ds122-html-tables-assignment<br>2025-03-29| ds122-html-store-assignment<br>2025-03-29| ds122-css-assignment<br>2025-04-04| ds122-youtube-assignment<br>2025-04-11| ds122-js-exercises-assignment<br>2025-04-11|
 |----| :---:| :---:| :---:| :---:| :---:| :---:|
@@ -26,7 +26,7 @@
 |JOAO_MANOEL_VALERIO_DA_SILVA|  ok |  ok |   ok |  ok |  Fork, mas nenhum commit até data de entrega|
 |JOAO_VICTOR_TIMOTEO|  Fork não encontrado |  Fork não encontrado |   Fork não encontrado |  Fork não encontrado |  Fork não encontrado |
 |JOAO_VITOR_ALVES_BUSS|  ok |  ok |   ok |  ok |  ok |
-|JOAO_VITOR_MINELA_KLINGER|  ok |  ok |   ok |  ok |  ok |
+|JOAO_VITOR_MINELA_KLINGER|  ok |  ok |   ok |  Fork, mas nenhum commit até data de entrega|  Fork, mas nenhum commit até data de entrega|
 |JOAO_VITOR_ZANINI_PEDRO|  ok |  ok |   ok |  Fork não encontrado |  ok |
 |JULIA_ARAUJO_DE_SOUZA|  ok |  ok |   ok |  ok |  ok |
 |JULIANO_VIDAL_SILVA|  ok |  ok |   Fork, mas nenhum commit até data de entrega|  Fork não encontrado |  ok |
